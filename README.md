@@ -1,4 +1,4 @@
-# 「青鸟殷勤」python自动化任务消息推送
+# 「长目飞耳」python自动化任务消息推送
 
 > 基于[DingDing群聊机器人](https://open.dingtalk.com/document/robots/custom-robot-access)、[PushPlus](https://www.pushplus.plus/)、[ServerTurbo](https://sct.ftqq.com/)、[smtp邮件服务](https://baike.baidu.com/item/SMTP)的远程在线消息推送。
 >
