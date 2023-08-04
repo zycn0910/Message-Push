@@ -8,8 +8,8 @@
 # 导入文件
 import MessagePush
 
-title = “标题”
-content = “内容”
+title = "标题"
+content = "内容"
 
 # 使用钉钉webhook机器人
 ding_secret = "钉钉机器人签名"
